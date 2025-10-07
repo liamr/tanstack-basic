@@ -1,8 +1,8 @@
 {
   "name": "tanstack-start-example-basic-react-query",
   "private": true,
-  "sideEffects": false,
   "type": "module",
+  "sideEffects": false,
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && tsc --noEmit",
@@ -11,12 +11,12 @@
   "dependencies": {
     "@netlify/functions": "^4.2.7",
     "@netlify/vite-plugin-tanstack-start": "^1.0.2",
-    "@tanstack/react-query": "^5.66.0",
-    "@tanstack/react-query-devtools": "^5.66.0",
-    "@tanstack/react-router": "^1.132.47",
-    "@tanstack/react-router-devtools": "^1.132.47",
-    "@tanstack/react-router-ssr-query": "^1.132.47",
-    "@tanstack/react-start": "^1.132.47",
+    "@tanstack/react-query": "^5.66.5",
+    "@tanstack/react-query-devtools": "^5.84.2",
+    "@tanstack/react-router": "^1.132.0",
+    "@tanstack/react-router-devtools": "^1.132.0",
+    "@tanstack/react-router-ssr-query": "^1.131.7",
+    "@tanstack/react-start": "^1.132.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "redaxios": "^0.5.1",
