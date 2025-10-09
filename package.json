@@ -8,6 +8,9 @@
     "build": "vite build && tsc --noEmit",
     "start": "vite start"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "dependencies": {
     "@netlify/functions": "^4.2.7",
     "@netlify/vite-plugin-tanstack-start": "^1.0.2",
